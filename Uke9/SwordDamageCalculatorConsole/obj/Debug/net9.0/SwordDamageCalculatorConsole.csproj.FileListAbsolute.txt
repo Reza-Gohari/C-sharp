@@ -1,0 +1,14 @@
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\bin\Debug\net9.0\SwordDamageCalculatorConsole.exe
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\bin\Debug\net9.0\SwordDamageCalculatorConsole.deps.json
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\bin\Debug\net9.0\SwordDamageCalculatorConsole.runtimeconfig.json
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\bin\Debug\net9.0\SwordDamageCalculatorConsole.dll
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\bin\Debug\net9.0\SwordDamageCalculatorConsole.pdb
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.dll
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\refint\SwordDamageCalculatorConsole.dll
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.pdb
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\SwordDamageCalculatorConsole.genruntimeconfig.cache
+C:\Users\riza5\Documents\C sharp\Uke9\SwordDamageCalculatorConsole\obj\Debug\net9.0\ref\SwordDamageCalculatorConsole.dll

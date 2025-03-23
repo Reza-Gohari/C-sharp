@@ -1,0 +1,4 @@
+C:\Users\riza5\Documents\C sharp\Uke1\obj\Debug\net9.0\Uke1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp\Uke1\obj\Debug\net9.0\Uke1.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke1\obj\Debug\net9.0\Uke1.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp\Uke1\obj\Debug\net9.0\Uke1.csproj.CoreCompileInputs.cache

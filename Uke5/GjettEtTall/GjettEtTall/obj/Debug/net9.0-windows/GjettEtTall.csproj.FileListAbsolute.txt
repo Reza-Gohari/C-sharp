@@ -1,0 +1,14 @@
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\bin\Debug\net9.0-windows\GjettEtTall.exe
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\bin\Debug\net9.0-windows\GjettEtTall.deps.json
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\bin\Debug\net9.0-windows\GjettEtTall.runtimeconfig.json
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\bin\Debug\net9.0-windows\GjettEtTall.dll
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\bin\Debug\net9.0-windows\GjettEtTall.pdb
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.csproj.CoreCompileInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.dll
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\refint\GjettEtTall.dll
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.pdb
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\GjettEtTall.genruntimeconfig.cache
+C:\Users\riza5\Documents\C sharp\Uke5\GjettEtTall\GjettEtTall\obj\Debug\net9.0-windows\ref\GjettEtTall.dll

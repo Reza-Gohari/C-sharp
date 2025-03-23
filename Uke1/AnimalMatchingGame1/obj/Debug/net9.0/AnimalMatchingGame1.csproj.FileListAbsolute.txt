@@ -1,0 +1,14 @@
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\bin\Debug\net9.0\AnimalMatchingGame1.exe
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\bin\Debug\net9.0\AnimalMatchingGame1.deps.json
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\bin\Debug\net9.0\AnimalMatchingGame1.runtimeconfig.json
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\bin\Debug\net9.0\AnimalMatchingGame1.dll
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\bin\Debug\net9.0\AnimalMatchingGame1.pdb
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.csproj.CoreCompileInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.dll
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\refint\AnimalMatchingGame1.dll
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.pdb
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\AnimalMatchingGame1.genruntimeconfig.cache
+C:\Users\riza5\Documents\C sharp\Uke1\AnimalMatchingGame1\obj\Debug\net9.0\ref\AnimalMatchingGame1.dll

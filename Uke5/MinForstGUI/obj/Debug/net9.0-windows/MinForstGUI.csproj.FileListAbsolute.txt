@@ -1,0 +1,14 @@
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.csproj.CoreCompileInputs.cache
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\bin\Debug\net9.0-windows\MinForstGUI.exe
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\bin\Debug\net9.0-windows\MinForstGUI.deps.json
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\bin\Debug\net9.0-windows\MinForstGUI.runtimeconfig.json
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\bin\Debug\net9.0-windows\MinForstGUI.dll
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\bin\Debug\net9.0-windows\MinForstGUI.pdb
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.dll
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\refint\MinForstGUI.dll
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.pdb
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\MinForstGUI.genruntimeconfig.cache
+C:\Users\riza5\Documents\C sharp\Uke5\MinForstGUI\obj\Debug\net9.0-windows\ref\MinForstGUI.dll

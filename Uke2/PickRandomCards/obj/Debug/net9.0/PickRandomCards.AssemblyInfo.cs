@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PickRandomCards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a853346ebc08d5c01cab1a323e4ffe3f51be4b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a29e59f38e7620d15d60fff4a07ab677a1c27db0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PickRandomCards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PickRandomCards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,18 @@ C:\Users\riza5\Documents\C sharp\Uke2\PickRandomCards\obj\Debug\net9.0\refint\Pi
 C:\Users\riza5\Documents\C sharp\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.pdb
 C:\Users\riza5\Documents\C sharp\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.genruntimeconfig.cache
 C:\Users\riza5\Documents\C sharp\Uke2\PickRandomCards\obj\Debug\net9.0\ref\PickRandomCards.dll
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\bin\Debug\net9.0\PickRandomCards.exe
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\bin\Debug\net9.0\PickRandomCards.deps.json
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\bin\Debug\net9.0\PickRandomCards.runtimeconfig.json
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\bin\Debug\net9.0\PickRandomCards.dll
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\bin\Debug\net9.0\PickRandomCards.pdb
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.sourcelink.json
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.dll
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\refint\PickRandomCards.dll
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.pdb
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\riza5\Documents\C sharp  labene\Uke2\PickRandomCards\obj\Debug\net9.0\ref\PickRandomCards.dll
